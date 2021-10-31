@@ -8,5 +8,8 @@
 
 ##### *A diferencia entre GIT e GitHub.
 
+Link de Curso de Tecnologia: 
+[DIO](https://digitalinnovation.one/sign-up?ref=07SVJLJWJ6)
+
 
 
